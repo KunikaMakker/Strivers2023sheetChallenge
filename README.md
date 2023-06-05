@@ -6,3 +6,4 @@ URL to SDE Sheet: `https://takeuforward.org/interviews/strivers-sde-sheet-top-co
 DAY1: ARRAY
 1. Set Matrix Zero
 2. Pascal's Triangle
+3. Next Permutation
