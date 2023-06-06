@@ -10,3 +10,6 @@ DAY1: ARRAY
 4. Maximum Sub Array
 5. Sort 0 1 2          
 6. Buy And Sell Stocks
+
+DAY2: Array II
+1. Rotate Matrix Clockwise By one Element
