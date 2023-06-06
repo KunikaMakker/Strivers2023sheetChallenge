@@ -21,3 +21,4 @@ DAY2: Array II
 
 Day3: Array III
 1. Search in a 2D matrix
+2. Modular Exponential
