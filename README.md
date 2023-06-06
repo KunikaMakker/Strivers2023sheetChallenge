@@ -18,3 +18,6 @@ DAY2: Array II
 4. Find Duplicate In Array
 5. Repeating and missing number
 6. Inversion Pair Count
+
+Day3: Array III
+1. Search in a 2D matrix
