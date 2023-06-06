@@ -15,3 +15,4 @@ DAY2: Array II
 1. Rotate Matrix Clockwise By one Element
 2. Merge Intervals
 3. Merge Two Sorted Arrays
+4. Find Duplicate In Array
