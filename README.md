@@ -16,3 +16,4 @@ DAY2: Array II
 2. Merge Intervals
 3. Merge Two Sorted Arrays
 4. Find Duplicate In Array
+5. Repeating and missing number
