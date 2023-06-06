@@ -17,3 +17,4 @@ DAY2: Array II
 3. Merge Two Sorted Arrays
 4. Find Duplicate In Array
 5. Repeating and missing number
+6. Inversion Pair Count
