@@ -13,3 +13,4 @@ DAY1: ARRAY
 
 DAY2: Array II
 1. Rotate Matrix Clockwise By one Element
+2. Merge Intervals
