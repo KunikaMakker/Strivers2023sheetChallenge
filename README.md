@@ -23,3 +23,4 @@ Day3: Array III
 1. Search in a 2D matrix
 2. Modular Exponential
 3. Majority Element
+4. Majority Element - II (occurs more than n/3 times)
