@@ -29,3 +29,4 @@ Day3: Array III
 
 DAY4: Array IV
 1. Pair Sum
+2. 4 element sum 
