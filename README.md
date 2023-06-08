@@ -37,3 +37,4 @@ DAY5: LINKED LIST
 3. Merge Two Sorted List
 4. Delete Kth Node From End
 5. Add Two Numbers in Linked List
+6. Delete Node in Linked List
