@@ -42,3 +42,6 @@ DAY5: LINKED LIST
 4. Delete Kth Node From End
 5. Add Two Numbers in Linked List
 6. Delete Node in Linked List
+
+DAY6: LINKED LIST II
+1. Intersection of Two Linked List
