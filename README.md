@@ -32,7 +32,7 @@ DAY4: Array IV
 2. 4 element sum 
 3. Longest Consecutive Sequence
 4. Longest SubArray Zero Sum
-
+5. SubArrays With Given XOR
 
 DAY5: LINKED LIST
 1. Reverse Linked List
