@@ -33,6 +33,7 @@ DAY4: Array IV
 3. Longest Consecutive Sequence
 4. Longest SubArray Zero Sum
 5. SubArrays With Given XOR
+6. Longest Substring Without Repeat
 
 DAY5: LINKED LIST
 1. Reverse Linked List
