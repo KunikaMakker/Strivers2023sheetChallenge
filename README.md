@@ -45,3 +45,4 @@ DAY5: LINKED LIST
 
 DAY6: LINKED LIST II
 1. Intersection of Two Linked List
+2. Detect Cycle In Linked List
