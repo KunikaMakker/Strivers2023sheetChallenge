@@ -47,3 +47,4 @@ DAY6: LINKED LIST II
 1. Intersection of Two Linked List
 2. Detect Cycle In Linked List
 4. Palindrome In Linked List
+5. Entry Element of Cycle in Linked List
